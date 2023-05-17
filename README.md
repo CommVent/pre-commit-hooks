@@ -1,2 +1,2 @@
 # pre-commit-hooks
-Custom hooks for pre-commit (see pre-commit.com)
+Custom hooks for pre-commit (see https://pre-commit.com)
